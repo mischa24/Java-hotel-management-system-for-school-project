@@ -40,3 +40,25 @@ A complete hotel management system built with Java for academic purposes. This a
 1. Clone the repository:
 ```bash
 git clone https://github.com/mischa24/Java-hotel-management-system-for-school-project.git
+
+
+
+📂 Project Structure
+src/
+├── main/
+│   ├── java/
+│   │   ├── com/
+│   │   │   ├── koutsakis/
+│   │   │   │   ├── hotel/
+│   │   │   │   │   ├── model/         # Data models
+│   │   │   │   │   │   ├── Customer.java
+│   │   │   │   │   │   ├── Employee.java
+│   │   │   │   │   │   ├── Room.java
+│   │   │   │   │   │   └── ...
+│   │   │   │   │   ├── service/       # Business logic
+│   │   │   │   │   │   ├── DiscountManager.java
+│   │   │   │   │   │   ├── ReservationManager.java
+│   │   │   │   │   │   └── ...
+│   │   │   │   │   ├── util/          # Utilities
+│   │   │   │   │   │   └── RoomInput.java
+│   │   │   │   │   └── HotelApp.java  # Main class
