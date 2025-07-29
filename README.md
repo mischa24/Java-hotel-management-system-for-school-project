@@ -1,5 +1,7 @@
-# 🏨 Java Hotel Management System
+# 🏨 Java Hotel Management System  
 
+[![Java Version](https://img.shields.io/badge/Java-17+-blue)](https://openjdk.org/projects/jdk/17/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellowgreen)](https://opensource.org/licenses/MIT)
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
