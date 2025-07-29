@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RoomInput
+comment1.params=scanner
+comment1.target=Room\ readRoom(java.util.Scanner)
+numComments=2

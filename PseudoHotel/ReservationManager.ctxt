@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ReservationManager
+comment1.params=scanner\ reservations
+comment1.target=void\ run(java.util.Scanner,\ java.util.List)
+numComments=2

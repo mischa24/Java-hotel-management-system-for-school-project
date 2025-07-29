@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StatsManager
+comment1.params=reservations
+comment1.target=double\ calculateTotalRevenue(java.util.List)
+comment2.params=reservations
+comment2.target=double\ calculateAverageRevenue(java.util.List)
+comment3.params=reservations
+comment3.target=Reservation\ findTopPayingReservation(java.util.List)
+comment4.params=reservations
+comment4.target=void\ printStatistics(java.util.List)
+numComments=5

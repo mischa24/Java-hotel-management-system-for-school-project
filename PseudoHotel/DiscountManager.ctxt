@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DiscountManager
+comment1.params=subtotal\ nights
+comment1.target=double\ applyDiscount(double,\ int)
+numComments=2

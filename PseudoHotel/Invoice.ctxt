@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Invoice
+comment1.params=reservation
+comment1.target=Invoice(Reservation)
+comment2.params=
+comment2.target=void\ printReceipt()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ServicesManager
+comment1.params=
+comment1.target=ServicesManager()
+comment2.params=
+comment2.target=void\ printAvailableServices()
+comment3.params=scanner
+comment3.target=double\ selectAndCalculateServices(java.util.Scanner)
+comment4.params=scanner
+comment4.target=void\ run(java.util.Scanner)
+numComments=5

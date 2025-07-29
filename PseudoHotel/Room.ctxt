@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=roomNumber\ type\ floor\ pricePerNight\ smoking
+comment1.target=Room(int,\ RoomType,\ int,\ double,\ boolean)
+comment2.params=
+comment2.target=int\ getRoomNumber()
+comment3.params=
+comment3.target=RoomType\ getType()
+comment4.params=
+comment4.target=int\ getFloor()
+comment5.params=
+comment5.target=double\ getPricePerNight()
+comment6.params=
+comment6.target=boolean\ isSmoking()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
