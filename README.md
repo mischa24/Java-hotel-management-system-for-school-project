@@ -1,3 +1,10 @@
+![Language](https://img.shields.io/badge/language-Java-orange)
+![Project Type](https://img.shields.io/badge/project-type_academic-blue)
+![Feature](https://img.shields.io/badge/Feature-Reservations_✔️-blue)
+![Feature](https://img.shields.io/badge/Feature-Employee_Mgmt_✔️-blue)
+![Feature](https://img.shields.io/badge/Feature-Billing_✔️-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # 🏨 Java Hotel Management System  
 
 [![Java Version](https://img.shields.io/badge/Java-17+-blue)](https://openjdk.org/projects/jdk/17/)
